@@ -20,7 +20,7 @@ export class DataService {
 }
 
 
-//1st var
+// 1st var
 // getCurrentState(): number {
 //   return this.data.getValue();
 // }

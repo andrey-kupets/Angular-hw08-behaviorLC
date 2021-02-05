@@ -23,7 +23,7 @@ export class BComponent implements OnInit {
 }
 
 
-//1 st var
+// 1 st var
 // ngOnInit(): void {
 //   this.someValue = this.dataService.getCurrentState();
 // }
