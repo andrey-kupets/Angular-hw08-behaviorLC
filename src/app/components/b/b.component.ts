@@ -8,6 +8,8 @@ import {DataService} from '../../services/data.service';
 })
 export class BComponent implements OnInit {
 
+  asd: any;
+
   someValue: number;
 
   constructor(private dataService: DataService) { }
